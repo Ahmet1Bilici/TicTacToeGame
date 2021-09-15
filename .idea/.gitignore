@@ -1,0 +1,8 @@
+# Default ignored files
+/shelf/
+/workspace.xml
+# Datasource local storage ignored files
+/../../../../../../../../../../:\Users\mikem\Dropbox\Public\NVC\JAVA_2_SHARED_CONTENT\WorkSpaceFall2020\GUI_TicTacToeGame\.idea/dataSources/
+/dataSources.local.xml
+# Editor-based HTTP Client requests
+/httpRequests/
