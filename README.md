@@ -1,4 +1,5 @@
-# TicTacToeGame is an app that allows users to play a TicTacToe games against computer.
+# TicTacToeGame
+TicTacToeGame is an app that allows users to play a TicTacToe games against computer.
 
 ### App Walkthough GIF
 
