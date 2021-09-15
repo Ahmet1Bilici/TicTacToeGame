@@ -5,6 +5,8 @@ TicTacToeGame is an app that allows users to play a TicTacToe games against comp
 
 -Game saves the result of every game and displays it.
 
+-AI uses Min-Max algorithm to make his moves.
+
 -To make the AI impossible to beat you can comment out the lines 133,134,135 and 138 on TicTAcToePane.java
 
 ### App Walkthough GIF
